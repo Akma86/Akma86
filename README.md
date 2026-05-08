@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=9D7DEA&center=true&vCenter=true&width=620&lines=🤖+Building+AI-powered+Trading+Systems;🧠+Deep+Learning+%7C+Computer+Vision+%7C+NLP;📈+Quantitative+Finance+%26+Algo+Trading;🔬+ML+Research+@+Telkom+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=9D7DEA&center=true&vCenter=true&width=700&lines=Building+AI-powered+Trading+Systems;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Quantitative+Finance+%26+Algo+Trading;ML+Research+at+Telkom+University" />
 
 <br/>
 
