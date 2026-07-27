@@ -40,7 +40,7 @@ currently_learning:
   - Transformer Architectures
   - Reinforcement Learning for Trading
   - Statistical Arbitrage
-  - MLOps & Model Deployment
+  - Big Data Architecture (apache, etc)
 ```
 
 ### 📡 &nbsp;Connect
