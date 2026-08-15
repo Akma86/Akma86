@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0b1f3a,50:123c69,75:6c2cff,100:ff6b35&height=230&section=header&text=AKMAL%20YAASIR%20FAUZAAN&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=DATA%20SCIENTIST%20%2F%20AI%20ENGINEER%20%2F%20QUANT%20RESEARCHER&descSize=14&descColor=61dafb&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0b1f3a,50:123c69,75:6c2cff,100:ff6b35&height=230&section=header&text=AKMAL%20YAASIR%20FAUZAAN&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=APPLIED%20MACHINE%20LEARNING%20%7C%20AI%20%7C%20DATA%20SCIENCE&descSize=14&descColor=61dafb&animation=fadeIn" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1100&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+AI-powered+systems;Researching+machine+learning+%26+markets;Turning+data+into+signals;Engineering+ideas+into+working+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1100&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+machine+learning+systems;Experimenting+with+AI+%26+data;Turning+ideas+into+working+models;Learning+by+building+and+breaking" />
 
 <br><br>
 
@@ -17,102 +17,123 @@
 
 <div align="center">
 
-## `01 // IDENTITY`
+## `01 // WHO AM I`
 
 ### **AKMAL YAASIR FAUZAAN**
 
-**Data Science Student · AI Builder · Quant Enthusiast**
+**Data Science Student · Applied ML / AI Builder**
 
 `Bandung, Indonesia 🇮🇩` · `Telkom University`
 
 </div>
 
-I build things at the intersection of **machine learning, quantitative research, and software engineering**.
+I'm a **Data Science undergraduate at Telkom University** focused on **Applied Machine Learning and AI**.
 
-My interests move between two worlds:
+I enjoy taking a problem, turning it into a machine learning task, experimenting with different approaches, and eventually trying to make the thing actually work.
 
-**machines that learn**
-and
-**systems that make decisions under uncertainty.**
+My main interests are:
 
-That means experimenting with neural networks, transformers, computer vision, data systems, trading strategies, and whatever interesting problem happens to fall into the rabbit hole.
+**Computer Vision · NLP · Deep Learning · Machine Learning Systems**
+
+I also have a strong interest in **quantitative research and financial markets**, where I explore how machine learning, statistics, and data can be used to understand noisy and uncertain systems.
 
 ---
 
-# `02 // CURRENT MISSION`
+# `02 // CURRENT FOCUS`
 
 <div align="center">
 
-|                |                                           |
-| :------------- | :---------------------------------------- |
-| 🤖 **AI**      | LLMs · Transformers · Deep Learning       |
-| 📈 **QUANT**   | Alpha Research · Stat Arb · Trading       |
-| 👁️ **VISION** | Computer Vision · Representation Learning |
-| ⚙️ **SYSTEMS** | Data Pipelines · APIs · Infrastructure    |
+|                         |                                                             |
+| :---------------------- | :---------------------------------------------------------- |
+| 🤖 **APPLIED ML**       | Model Development · Experimentation · Evaluation            |
+| 👁️ **COMPUTER VISION** | Classification · Object Detection · Representation Learning |
+| 🧠 **NLP / AI**         | Transformers · LLMs · Text Modeling                         |
+| 📊 **DATA**             | Feature Engineering · Time Series · Analysis                |
+| ⚙️ **ENGINEERING**      | APIs · Databases · ML Pipelines                             |
 
 </div>
 
 <br>
 
 ```text
-                 ┌──────────────────────┐
-                 │       RAW DATA       │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                 ┌──────────────────────┐
-                 │    FIND PATTERNS     │
-                 └──────────┬───────────┘
-                            │
-                 ┌──────────┴───────────┐
-                 ▼                      ▼
-          ┌─────────────┐        ┌─────────────┐
-          │  ML MODEL   │        │  QUANT      │
-          │             │        │  STRATEGY   │
-          └──────┬──────┘        └──────┬──────┘
-                 │                      │
-                 └──────────┬───────────┘
-                            ▼
-                 ┌──────────────────────┐
-                 │    TEST / ITERATE    │
-                 └──────────────────────┘
+                    REAL-WORLD PROBLEM
+                           │
+                           ▼
+                       DATA
+                           │
+                    ┌──────┴──────┐
+                    ▼             ▼
+              EXPLORE DATA    DEFINE TASK
+                    │             │
+                    └──────┬──────┘
+                           ▼
+                    BUILD / EXPERIMENT
+                           │
+                           ▼
+                    EVALUATE RESULTS
+                           │
+                     ┌─────┴─────┐
+                     ▼           ▼
+                   WORKS       FAILS
+                     │           │
+                     ▼           ▼
+                  IMPROVE      LEARN
+                     │           │
+                     └─────┬─────┘
+                           ▼
+                         REPEAT
 ```
 
 ---
 
-# `03 // WHAT I'M INTO`
+# `03 // WHAT I BUILD`
 
-### 🧠 Artificial Intelligence
+### 👁️ COMPUTER VISION
 
-```text
-Deep Learning
-├── Neural Networks
-├── Transformers
-├── Large Language Models
-├── Natural Language Processing
-└── Reinforcement Learning
-```
-
-### 📊 Quantitative Research
+My strongest ML area.
 
 ```text
-Quant Research
-├── Factor Research
-├── Alpha Discovery
-├── Statistical Arbitrage
-├── Time Series
-├── Portfolio Analytics
-└── Algorithmic Trading
-```
-
-### 👁️ Computer Vision
-
-```text
-Vision
+Computer Vision
 ├── Image Classification
 ├── Object Detection
 ├── Feature Extraction
+├── Representation Learning
+└── Video / Image Analysis
+```
+
+### 🧠 NLP & AI
+
+```text
+NLP / AI
+├── Transformers
+├── Large Language Models
+├── Text Classification
+├── Sentiment Analysis
 └── Representation Learning
+```
+
+### 📊 MACHINE LEARNING
+
+```text
+Machine Learning
+├── Supervised Learning
+├── Feature Engineering
+├── Model Evaluation
+├── Time Series
+└── Experimental Analysis
+```
+
+### 📈 QUANTITATIVE RESEARCH
+
+A research interest outside my main ML focus.
+
+```text
+Quant Research
+├── Time Series
+├── Factor Research
+├── Signal Research
+├── Backtesting
+└── Market Analysis
 ```
 
 ---
@@ -127,7 +148,7 @@ Vision
 
 <br><br>
 
-### AI / MACHINE LEARNING
+### MACHINE LEARNING
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
 
@@ -145,79 +166,47 @@ Vision
 
 <br><br>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6B35?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square\&logo=huggingface\&logoColor=111111)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-FF6B35?style=flat-square" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=111111" />
 
 </div>
 
 ---
 
-# `05 // RESEARCH & BUILD`
+# `05 // RESEARCH & PROJECTS`
 
-<table>
-<tr>
-<td width="50%">
+I like projects that go beyond simply training a model.
 
-## 🤖 AI SYSTEMS
+My goal is to understand the **whole problem**:
 
-Building applications around:
+```text
+DATA
+  ↓
+PROBLEM DEFINITION
+  ↓
+EXPLORATION
+  ↓
+FEATURES
+  ↓
+MODEL
+  ↓
+EVALUATION
+  ↓
+EXPERIMENTATION
+  ↓
+DEPLOYMENT / APPLICATION
+```
 
-* LLMs
-* NLP
-* Computer Vision
-* Deep Learning
-* Intelligent Agents
+Areas I'm currently exploring:
 
-</td>
-
-<td width="50%">
-
-## 📈 QUANT SYSTEMS
-
-Researching:
-
-* Trading Signals
-* Alpha Factors
-* Statistical Arbitrage
-* Backtesting
-* Portfolio Analytics
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 📊 DATA SYSTEMS
-
-Working with:
-
-* Time Series
-* Feature Engineering
-* Predictive Modeling
-* Data Visualization
-* Experimental Analysis
-
-</td>
-
-<td width="50%">
-
-## ⚡ ENGINEERING
-
-Interested in:
-
-* APIs
-* Databases
-* Docker
-* ML Pipelines
-* Scalable Infrastructure
-
-</td>
-</tr>
-</table>
+* **Applied Machine Learning**
+* **Computer Vision**
+* **NLP & Transformers**
+* **Time Series**
+* **Machine Learning for Financial Data**
+* **Data & ML Systems**
 
 ---
 
@@ -241,35 +230,35 @@ Interested in:
 
 ---
 
-# `07 // PHILOSOPHY`
+# `07 // HOW I WORK`
 
 <div align="center">
 
 ```text
-      IDEA
-       │
-       ▼
-   HYPOTHESIS
-       │
-       ▼
-   EXPERIMENT
-       │
-       ▼
-      DATA
-       │
-       ▼
-     RESULT
-       │
-   ┌───┴───┐
-   ▼       ▼
- WORKS   FAILS
-   │       │
-   ▼       ▼
- BUILD   LEARN
-   │       │
-   └───┬───┘
-       ▼
-     REPEAT
+        IDEA
+          │
+          ▼
+     HYPOTHESIS
+          │
+          ▼
+      EXPERIMENT
+          │
+          ▼
+         DATA
+          │
+          ▼
+       RESULT
+          │
+     ┌────┴────┐
+     ▼         ▼
+   WORKS     FAILS
+     │         │
+     ▼         ▼
+   BUILD     LEARN
+     │         │
+     └────┬────┘
+          ▼
+        REPEAT
 ```
 
 ### **Build. Measure. Break. Learn. Repeat.**
@@ -296,11 +285,11 @@ Interested in:
 
 <br><br>
 
-`AI` · `DATA` · `QUANT` · `ENGINEERING`
+`MACHINE LEARNING` · `AI` · `DATA` · `RESEARCH`
 
 <br>
 
-### **Turning data into intelligence.**
+### **Build things. Break things. Understand why.**
 
 </div>
 
