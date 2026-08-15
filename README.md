@@ -12,14 +12,14 @@
 </div>
 
 ---
-
+<div align="center">
 # 👋 About Me
 
 ```yaml
-name      : Akmal Yaasir Fauzaan
-location  : Bandung, Indonesia 🇮🇩
-university: Telkom University
-major     : Informatics / Data Science
+👤 Akmal Yaasir Fauzaan
+📍 Bandung, Indonesia 🇮🇩
+🎓 Telkom University
+📚 Data Science
 
 interests:
   - Artificial Intelligence
@@ -34,6 +34,7 @@ currently:
   - Exploring transformer architectures
   - Learning scalable data systems
 ```
+</div>
 
 I am a Data Science student at **Telkom University** with a strong interest in building intelligent systems that combine **machine learning, quantitative research, and software engineering**.
 
