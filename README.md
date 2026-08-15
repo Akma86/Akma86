@@ -123,24 +123,6 @@ My work focuses on developing AI solutions, conducting data-driven research, and
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akma86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akma86&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akma86&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
